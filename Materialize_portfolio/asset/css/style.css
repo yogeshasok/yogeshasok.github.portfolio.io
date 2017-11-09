@@ -1,0 +1,108 @@
+.hd
+{
+    font-family: "Arial Rounded MT Bold";
+    font-style: italic;
+    padding-left: 5px;
+    font-weight:500;
+}
+
+.ll{
+    font-family: "Arial Black";
+
+}
+.parallax-container {
+    max-height: 400px;
+    position: relative;
+    overflow: hidden;
+}
+body{
+    height: 900px;
+}
+.name{
+    font-family:"Segoe Print";
+}
+
+.description{
+    font-family: "Chiller";
+    font-size: x-large;
+}
+i.material-icons {
+    float: inherit;
+}
+.he{
+    font-family: "Bauhaus 93";
+}
+
+.row.blank {
+    background-color: white;
+    height: 200px ;
+}
+
+
+td.tblcol {
+    padding-left: 60px;
+}
+td.tblcol1 {
+    text-align: center;
+}
+
+li.list {
+    list-style: none;
+}
+
+.row{
+    margin-bottom: 0px;
+}
+#ab{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+img.responsive-img.pro {
+    max-width: 200px;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+i.material-icons.proj {
+    font-size: 150px;
+    color: white;
+}
+.prohead{
+    font-family:"Inconsolata";
+}
+.procontent{
+    font-family:"Chiller";
+    font-size: larger;
+    font-weight: bolder;
+}
+.container.other {
+    margin-top: 50px;
+}
+
+.col.m3.l3.s6.a {
+    text-align: right;
+    font-family: "Agency FB";
+    /* padding-top: 10px; */
+    font-size: larger;
+}
+.col.m3.l3.s6.b {
+    text-align: left;
+    font-family: "Agency FB";
+    padding-top: 31px;
+    font-size: larger;
+}
+.col.m3.l3.s6.c {
+    padding-top: 50px;
+    font-size: larger;
+    font-family: "Agency FB";
+}
+.col.m3.l3.s6.c {
+    padding-top: 50px;
+    font-size: larger;
+    font-family: "Agency FB";
+    text-align: right;
+}
+p.grey-text.text-lighten-4 {
+    padding-left: 20px;
+}
